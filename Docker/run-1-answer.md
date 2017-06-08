@@ -1,3 +1,3 @@
 ```
-docker run -it docker/whalesay cowsay hello world
+docker run docker/whalesay cowsay hello world
 ```{{execute}}
