@@ -9,6 +9,12 @@
       "text": "run-1.md",
       "verify": "run-1-verify.sh",
       "answer": "run-1-answer.md"
+    },
+    {
+      "title": "My First Docker Run",
+      "text": "run-2.md",
+      "verify": "run-2-verify.sh",
+      "answer": "run-2-answer.md"
     }],
     "intro": {
       "text": "intro.md",
