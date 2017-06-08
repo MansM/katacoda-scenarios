@@ -1,0 +1,28 @@
+{
+  "title": "Docker - Basics",
+  "description": "Learn to start with Docker",
+  "difficulty": "beginner",
+  "time": "2 minutes",
+  "details": {
+    "steps": [{
+      "title": "My First Docker Run",
+      "text": "run-1.md",
+      "verify": "run-1-verify.sh",
+      "answer": "run-1-answer.md"
+    }],
+    "intro": {
+      "text": "intro.md",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
+  },
+  "backend": {
+    "imageid": "bash"
+  }
+}

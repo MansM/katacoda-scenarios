@@ -1,0 +1,1 @@
+docker ps -a --filter status=exited | grep "docker/whalesay" > /dev/null 2>&1 && echo "done"
